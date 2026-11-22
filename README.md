@@ -143,6 +143,6 @@ germany-student-housing-dashboard/
 
 ## Limitations
 
-- Only **publicly funded** housing is counted. Private operators and the free rental market are not in the data, so true supply is higher than shown.
+- Only **publicly funded** housing is counted. Private operators and the free rental market are not in the data.
 
 Happy Learning :smile:
