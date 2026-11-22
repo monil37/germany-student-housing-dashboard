@@ -56,10 +56,8 @@ The **Calc** sheet holds the 12 PivotTables that feed the dashboard, including t
 2. **Berlin is the single largest problem.** It holds 7.5% of students but only 3.8% of places, a gap of 9,022 places (21% of the national gap), and its pipeline of 666 places covers just 7%.
 3. **NRW is the largest gap by volume** (11,288 places, 26% of the national total) with only 40% pipeline coverage.
 4. **State averages hide local shortages.** Baden-Württemberg (14.7%), Niedersachsen (10.8%) and Rheinland-Pfalz (11.3%) are all above the national rate yet still contain 1,800 to 2,700 missing places each. Koblenz, for example, sits at 3.8% inside a "green" state.
-5. **Size of the university town does not explain supply.** Supply rates are almost flat across size bands (9.9% to 11.1%). Location and state housing policy matter more than city size.
-6. **The East's advantage is a legacy, and it is shrinking.** East German supply fell from 86% of students in 1991 to 14.6% today, but it is still the best supplied region. Brandenburg, Mecklenburg-Vorpommern and Sachsen have pipelines that exceed their gap several times over.
-7. **The recent rate improvement is mostly a falling student count, not new building.** Since 2021 the rate rose from 9.45% to 10.12%, while students fell by 148,761 and places grew by only 2,048.
-8. **Bavaria is the only large state where the pipeline almost matches the gap** (97% coverage, 3,947 places already under construction).
+5. **The East's advantage is a legacy, and it is shrinking.** East German supply fell from 86% of students in 1991 to 14.6% today, but it is still the best supplied region. Brandenburg, Mecklenburg-Vorpommern and Sachsen have pipelines that exceed their gap several times over.
+6. **Bavaria is the only large state where the pipeline almost matches the gap** (97% coverage, 3,947 places already under construction).
 
 ## Dataset
 
